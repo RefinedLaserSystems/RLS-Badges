@@ -17,9 +17,9 @@ https://www.python.org/downloads/
 
 [![Python version](https://img.shields.io/badge/Python-3.11-blue)][Python 3.11]
 [![Static analysis](https://github.com/RefinedLaserSystems/Microscope-Control/actions/workflows/static-analysis.yml/badge.svg)](https://github.com/RefinedLaserSystems/Microscope-Control/actions/workflows/static-analysis.yml)
-[![Pylint analysis](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Engwer/b03596e6e056ec47b1de6f51f82269e0/raw/pylint.json)](https://github.com/RefinedLaserSystems/Microscope-Control/actions/workflows/pylint-analysis.yml)
-[![Unit tests](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Engwer/606d97ff328cbf90781e7bcd4804e6f9/raw/unittest.json)](https://github.com/RefinedLaserSystems/Microscope-Control/actions/workflows/unit-test.yml)
-[![Test coverage](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Engwer/58bf28b449fdd2c25e0c89ef45a826b3/raw/coverage.json)](https://github.com/RefinedLaserSystems/Microscope-Control/actions/workflows/unit-test.yml)
+[![Pylint analysis](https://byob.yarr.is/RefinedLaserSystems/RLS-Badges/NoctuaPylintScore/shields/shields.json)](https://github.com/RefinedLaserSystems/Microscope-Control/actions/workflows/pylint-analysis.yml)
+[![Unit tests](https://byob.yarr.is/RefinedLaserSystems/RLS-Badges/NoctuaUnittest/shields/shields.json)](https://github.com/RefinedLaserSystems/Microscope-Control/actions/workflows/unit-test.yml)
+[![Test coverage](https://byob.yarr.is/RefinedLaserSystems/RLS-Badges/NoctuaCoverage/shields/shields.json)](https://github.com/RefinedLaserSystems/Microscope-Control/actions/workflows/unit-test.yml)
 
 [Python 3.11]:
 https://www.python.org/downloads/release/python-3113/
